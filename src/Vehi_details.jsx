@@ -29,7 +29,7 @@ export default function Vehi_details(props) {
                 </div>
                 </div>
 
-                <div className="card col-sm-12 col-md-6 col-lg-6  border-dark justify-content-center">
+                <div className="card col-sm-12 col-md-6 col-lg-6  border-danger justify-content-center">
                    
                    
                
