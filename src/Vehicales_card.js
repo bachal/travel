@@ -25,7 +25,7 @@ export default function Cour_dynamic(prop) {
         <Card className="col-sm-12 col-md-12 col-lg-12 mt-3 text-center crd border border-dark zoom"  >
             <Card.Body>
             <div className="zoom">
-            <Card.Img variant="top" src={/travel/prop.name}  style={{ height: '100px',width: '100%'}} className="zoom"/>
+            <Card.Img variant="top" src={process.env.PUBLIC_URL + prop.name}  style={{ height: '100px',width: '100%'}} className="zoom"/>
             </div>
                 <Card.Title className="mt-3">{vehicles}</Card.Title>
                 <Card.Text>
