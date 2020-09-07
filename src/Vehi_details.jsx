@@ -16,7 +16,7 @@ export default function Vehi_details(props) {
     return (
         <div className="card col-sm-12 col-md-12 col-lg-12" id="ck">
              <div className=" bg-white  text-center " style={{marginTop:"90px"}}>
-                    Selected Vehicle Details 
+                    Selected Vehicle Details Here
                 </div>
                
             <div className="row">
