@@ -10,7 +10,7 @@ class Navbars extends Component {
 
     return (<div>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" className="fixed-top " id="navbar-example2">
-        <Navbar.Brand href="#about">GARUDA</Navbar.Brand>
+        <Navbar.Brand href="#about">GARUDA TRAVLES</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse className="justify-content-end">
           <Nav.Link href="#home" className="text-white">Home</Nav.Link>
